@@ -42,52 +42,7 @@ h1{
 
 /* sammenlign side */
 
-/* .slider{
-    width: 200px;
-    height: 600px;
-    display: flex;
-    flex-direction: row;
-    overflow-y: scroll;
-}
 
-.slider-wrap {
-    position: relative;
-    background: var(--green);
-    width: 200px;
-    bottom: 0;
-    border-radius: 0 20px 20px 0;
-}
-
-
-.slider div{
-    width: 100%;
-    display: grid;
-    grid-template-rows: auto;
-    gap: 20px;
-    padding: 10px;
-    flex: none;
-    white-space: nowrap;
-}
-
-.slider div img{
-    width: 100%;
-    transition: transform 0.3s ease;
-}
-
-.slider::-webkit-scrollbar{
-    display: none;
-}
-
-#upBtn, #downBtn {
-    width: 50px;
-    cursor: pointer;
-    margin: 40px;
-}
-
-.slider div img:hover{
-    cursor: pointer;
-    transform: scale(1.1) rotate(5deg);
-} */
 
 #slider-container {
     position: relative;
